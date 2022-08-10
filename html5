@@ -1,0 +1,55 @@
+<!Doctype html>
+<html> 
+
+<head>
+       <title> tp2 technologie web</title>
+</head>
+<body>
+      <header> Mon blog de la semaine 
+         <nav>
+         <h2>  Menu </h2>
+         <ul> 
+              <li> <a href="www.jghd.com"> semaine 1 </a></li>
+              <li> <a href="www.jshdl.com"> semaine 2</a> </li>
+              <li> <a href= "www.khdks.com"> semaine 3 </a> </li> 
+         </ul>
+      
+         </nav>
+      </header> 
+
+    <section>
+        <article>
+             <div  <a id ="RDV"></a>
+             <h2> Rendez-vous de travail </h2>
+             <p> le 1 Novembre 2018    <br> Aujoud'hui , je suis allé a Casablanca par le train  <br> j'ai rencontré des clients pour signer quelque contrats  </p> </div>
+        </article>
+
+        <article>
+              <div < a id=" MGS"></a>        
+              <h2> le magasinage !!</h2>
+              <p> le 3 novembre 2018 <br> Aujourd'hui, j'ai visité plusieurs Mall <br> les soldes actuels ne sont pas assez intéressant ! </p> </div>
+        </article> 
+
+        <article>
+              <div <a id = "PRT"></a>
+              <h2> visiter mes parents </h2>
+             <p> le 5 novembre 2018 <br> Aujourd'hui , j'ai visité mes parents <br> nous avons eu un tres bon diner ensemble </p> </div>
+        </article>
+
+         <article>
+              <h2> Derniers articles </h2>
+              <ul> 
+              <li> <a href="#RDV"> Rendez vous de travail </a> </li>
+              <li> <a href="#MGS"> le magasinnage !! </a> </li>
+              <li> <a href="#PRT"> Visiter mes parents </a> </li>
+              </ul>
+         </article>
+
+     </section>
+     <footer>
+
+               <p> me contacter: <a href="www.hdksl.com"> mail@mail.edu </a></p>
+     </footer>        
+</body>
+
+</html>
